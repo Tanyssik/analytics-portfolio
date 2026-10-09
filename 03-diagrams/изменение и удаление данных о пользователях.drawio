@@ -1,0 +1,359 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 YaBrowser/25.10.0.0 Safari/537.36" version="29.2.7">
+  <diagram name="Страница-1" id="9L1EyZ9k3mFXdP4rGo_r">
+    <mxGraphModel dx="4967" dy="3089" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2xPhOEh6D01drfytf_g--5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" value="Пользователь" vertex="1">
+          <mxGeometry height="60" width="30" x="-1607" y="-1152" as="geometry" />
+        </mxCell>
+        <mxCell id="2xPhOEh6D01drfytf_g--6" edge="1" parent="1" source="SpNpkPqaO3CUBpDKMKoM-69" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;exitX=0.326;exitY=-0.042;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1585" y="862" as="sourcePoint" />
+            <mxPoint x="-1587" y="-1082" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2xPhOEh6D01drfytf_g--7" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1387" y="866" as="sourcePoint" />
+            <mxPoint x="-1387" y="-1082" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2xPhOEh6D01drfytf_g--8" edge="1" parent="1" source="SpNpkPqaO3CUBpDKMKoM-29" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1187" y="-101" as="sourcePoint" />
+            <mxPoint x="-1187" y="-1082" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2xPhOEh6D01drfytf_g--9" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-987" y="838" as="sourcePoint" />
+            <mxPoint x="-987" y="-1082" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2xPhOEh6D01drfytf_g--11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" value="Интерфейс" vertex="1">
+          <mxGeometry height="60" width="120" x="-1447" y="-1142" as="geometry" />
+        </mxCell>
+        <mxCell id="2xPhOEh6D01drfytf_g--12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" value="Управление" vertex="1">
+          <mxGeometry height="60" width="120" x="-1253" y="-1142" as="geometry" />
+        </mxCell>
+        <mxCell id="2xPhOEh6D01drfytf_g--13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" value="База данных" vertex="1">
+          <mxGeometry height="60" width="120" x="-1047" y="-1142" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-1" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=default;" value="" vertex="1">
+          <mxGeometry height="33" width="10" x="-1392" y="-1045" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-2" edge="1" parent="1" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=#DDA15E;fontColor=light-dark(#FEFAE0,#000000);fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-1" value="&lt;font size=&quot;1&quot;&gt;1.Нажимает кнопку &quot;Изменить или удалить данные о пользователях&quot;&lt;/font&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1585" y="-1040" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-3" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="-1392" y="-992" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-4" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-3" value="2.Отображает две кнопки">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1357" y="-982" />
+            </Array>
+            <mxPoint x="-1387" y="-1012" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-5" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="38" width="10" x="-1392" y="-939" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-6" edge="1" parent="1" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-5" value="3.Нажимает кнопку &quot;Данные о студентах&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1590" y="-934" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-7" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="-1392" y="-881" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-8" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-7" value="4.Отображает интерфейс">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1357" y="-871" />
+            </Array>
+            <mxPoint x="-1387" y="-901" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-9" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="36" width="10" x="-1392" y="-824" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-10" edge="1" parent="1" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-9" value="5.Выбирает институт">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1588" y="-819" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-11" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="-1392" y="-768" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-12" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-11" value="6.Отображает интерфейс">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1357" y="-758" />
+            </Array>
+            <mxPoint x="-1387" y="-788" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-13" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="41" width="10" x="-1392" y="-708" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-14" edge="1" parent="1" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-13" value="7.Выбирает кафедру">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1590" y="-703" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-15" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="-1392" y="-647" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-16" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-15" value="8.Отображает интерфейс">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1357" y="-637" />
+            </Array>
+            <mxPoint x="-1387" y="-667" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-19" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="41" width="10" x="-1392" y="-587" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-20" edge="1" parent="1" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-19" value="9.Выбирает направление">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1588" y="-582" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-21" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="-1392" y="-526" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-22" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-21" value="10.Отображает интерфейс">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1357" y="-516" />
+            </Array>
+            <mxPoint x="-1387" y="-546" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-23" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="41" width="10" x="-1392" y="-466" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-24" edge="1" parent="1" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-23" value="11.Выбирает группу">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1588" y="-461" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-25" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="-1392" y="-405" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-26" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-25" value="12.Отображает интерфейс">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1357" y="-395" />
+            </Array>
+            <mxPoint x="-1387" y="-425" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-27" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="37" width="10" x="-1392" y="-345" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-28" edge="1" parent="1" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-27" value="13.Вносит изменения, нажимает кнопку &quot;Сохранить&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1588" y="-340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-30" edge="1" parent="1" source="SpNpkPqaO3CUBpDKMKoM-27" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-29" value="14.Передача данных">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1333" y="-332" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-31" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" target="SpNpkPqaO3CUBpDKMKoM-29" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1185" y="830" as="sourcePoint" />
+            <mxPoint x="-1187" y="-1082" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-29" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="37" width="10" x="-1192" y="-313" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-32" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="46" width="12" x="-992.67" y="-276" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-33" edge="1" parent="1" source="SpNpkPqaO3CUBpDKMKoM-29" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-32" value="15.Передача данных">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1187" y="-268" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-34" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="-992.6700000000001" y="-210" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-35" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-34" value="16.Сохранение данных">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-957.6700000000001" y="-200" />
+            </Array>
+            <mxPoint x="-987.6700000000001" y="-230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-36" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="46" width="10" x="-1192" y="-170" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-37" edge="1" parent="1" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-36" value="17.Передача результатов сохранения">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-986" y="-165" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-38" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="46" width="10" x="-1395" y="-124" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-39" edge="1" parent="1" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-38" value="18.Передача результатов сохранения">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1189" y="-119" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-40" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="-1392" y="-55" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-41" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-40" value="19.Отображает сохраненные данные">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1357" y="-45" />
+            </Array>
+            <mxPoint x="-1387" y="-75" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=none;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="737" width="700" x="-1627" y="18" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-43" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="49" width="10" x="-1392" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-44" edge="1" parent="1" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-43" value="1.Нажимает кнопку &quot;Данные о сотрудниках&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1586" y="54" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-45" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="-1392" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-46" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-45" value="2.Отображает интерфейс">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1357" y="125" />
+            </Array>
+            <mxPoint x="-1387" y="95" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-47" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="41" width="10" x="-1392" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-48" edge="1" parent="1" source="SpNpkPqaO3CUBpDKMKoM-42" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;exitX=0.051;exitY=0.214;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-47" value="3.Выбирает один из вариантов списка">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1462" y="175" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-49" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="-1392" y="231" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-50" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-49" value="4.Отображает интерфейс">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1357" y="241" />
+            </Array>
+            <mxPoint x="-1387" y="211" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-51" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="41" width="10" x="-1392" y="291" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-52" edge="1" parent="1" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;exitX=0.051;exitY=0.368;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-51" value="5.Выбирает сотрудника">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1591" y="296" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-53" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="-1392" y="352" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-54" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-53" value="6.Отображает интерфейс">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1357" y="362" />
+            </Array>
+            <mxPoint x="-1387" y="332" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-55" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="37" width="10" x="-1390" y="412" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-56" edge="1" parent="1" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-55" value="13.Вносит изменения, нажимает кнопку &quot;Сохранить&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1586" y="417" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-57" edge="1" parent="1" source="SpNpkPqaO3CUBpDKMKoM-55" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-58" value="14.Передача данных">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1331" y="425" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-58" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="37" width="10" x="-1190" y="444" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-59" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="46" width="12" x="-990.67" y="481" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-60" edge="1" parent="1" source="SpNpkPqaO3CUBpDKMKoM-58" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-59" value="15.Передача данных">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1185" y="489" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-61" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="-990.6700000000001" y="547" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-62" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-61" value="16.Сохранение данных">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-955.6700000000001" y="557" />
+            </Array>
+            <mxPoint x="-985.6700000000001" y="527" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-63" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="46" width="10" x="-1190" y="587" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-64" edge="1" parent="1" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-63" value="17.Передача результатов сохранения">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-984" y="592" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-65" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="46" width="10" x="-1393" y="633" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-66" edge="1" parent="1" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-65" value="18.Передача результатов сохранения">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1187" y="638" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-67" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="-1390" y="702" as="geometry" />
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-68" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" target="SpNpkPqaO3CUBpDKMKoM-67" value="19.Отображает сохраненные данные">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1355" y="712" />
+            </Array>
+            <mxPoint x="-1385" y="682" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-70" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;entryX=0.292;entryY=1.121;entryDx=0;entryDy=0;entryPerimeter=0;" target="SpNpkPqaO3CUBpDKMKoM-69" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1585" y="862" as="sourcePoint" />
+            <mxPoint x="-1587" y="-1082" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpNpkPqaO3CUBpDKMKoM-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FEFAE0;" value="Альтернативный поток 1" vertex="1">
+          <mxGeometry height="30" width="149" x="-1627" y="-23" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
